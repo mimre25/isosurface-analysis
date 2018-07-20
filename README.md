@@ -1,8 +1,7 @@
 # Isosurface-analysis
-This repository contains the code to compute Isosurface Similarity Maps (ISM), representative Isovalues, Distance Equalization, and time-varying multi-variate 
-similarity maps (TSM & VSM).
+This repository contains the code to compute isosurface similarity maps (ISMs), representative isovalues, temporal similarity maps (TSMs), and variable similarity maps (VSMs) from a given a time-varying multivariate volumetric data set.
 
-For details please refer to our papers [Efficient GPU-accelerated computation of isosurface similarity maps](https://www.computer.org/csdl/proceedings/pacificvis/2017/5738/00/08031592-abs.html) and [Identifying nearly equally spaced isosurfaces for volumetric data sets](https://www.sciencedirect.com/science/article/pii/S0097849318300220):
+For details please refer to our papers [Efficient GPU-accelerated computation of isosurface similarity maps](https://www.computer.org/csdl/proceedings/pacificvis/2017/5738/00/08031592-abs.html), [Identifying nearly equally spaced isosurfaces for volumetric data sets](https://www.sciencedirect.com/science/article/pii/S0097849318300220), and [Exploring time-varying multivariate volume data using matrix of isosurface similarity maps](https://www3.nd.edu/~cwang11/research/vis18-mism.pdf):
 ```bibtex
 @inproceedings{imre2017efficient,
   title={Efficient GPU-accelerated computation of isosurface similarity maps},
@@ -24,6 +23,19 @@ For details please refer to our papers [Efficient GPU-accelerated computation of
   publisher={Elsevier}
 }
 ```
+```bibtex
+@inproceedings{tao2019exploring,
+  title={Exploring time-varying multivariate volume data using matrix of isosurface similarity maps},
+  author={Tao, Jun, and Imre, Martin and Wang, Chaoli and Chawla, Nitesh V. and Guo, Hanqi, and Sever, Gökhan and Hyun Kim, Seung},
+  journal={IEEE Transactions on Visualization and Computer Graphics (IEEE SciVis 2018)},
+  volume={25(1)},
+  pages={},
+  year={2019},
+  publisher={IEEE}
+}
+```
+
+
 
 # Requirements
 * GCC/G++ Version 6+
