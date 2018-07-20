@@ -2,6 +2,29 @@
 This repository contains the code to compute Isosurface Similarity Maps (ISM), representative Isovalues, Distance Equalization, and time-varying multi-variate 
 similarity maps (TSM & VSM).
 
+For references:
+```bibtex
+@inproceedings{imre2017efficient,
+  title={Efficient GPU-accelerated computation of isosurface similarity maps},
+  author={Imre, Martin and Tao, Jun and Wang, Chaoli and others},
+  booktitle={2017 IEEE Pacific Visualization Symposium (PacificVis)},
+  pages={180--184},
+  year={2017},
+  organization={IEEE}
+}
+```
+```bibtex
+@article{imre2018identifying,
+  title={Identifying nearly equally spaced isosurfaces for volumetric data sets},
+  author={Imre, Martin and Tao, Jun and Wang, Chaoli},
+  journal={Computers \& Graphics},
+  volume={72},
+  pages={82--97},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+
 # Requirements
 * GCC/G++ Version 6+
 * GCC Version 5 for CUDA part
