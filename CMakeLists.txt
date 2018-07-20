@@ -4,10 +4,8 @@ set(CRC TRUE)
 
 MESSAGE("================")
 MESSAGE("ISOSURFACES")
-MESSAGE("CRC: ${CRC}")
 project(isosurfaces)
 
-#SET (CMAKE_CXX_COMPILER "/opt/crc/g/gcc/6.2.0/bin/g++")
 
 MESSAGE("CXX: ${CMAKE_CXX_COMPILER}")
 
