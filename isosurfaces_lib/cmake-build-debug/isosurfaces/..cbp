@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="."/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\isosurfaces\;CMake Files\cmake\;CMake Files\tests\;CMake Files\tests\lib\;CMake Files\tests\lib\googletest\;CMake Files\tests\lib\googletest\cmake\;CMake Files\tests\basic_tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake-build-debug/isosurfaces"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command=" -f &quot;/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake-build-debug/isosurfaces/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command=" -f &quot;/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake-build-debug/isosurfaces/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command=" -f &quot;/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake-build-debug/isosurfaces/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command=" -f &quot;/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake-build-debug/isosurfaces/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/isosurfaces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\isosurfaces\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/isosurfaces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\isosurfaces\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake/FindSDL2.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/cmake/FindSDL2.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/lib/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\tests\lib\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/basic_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\basic_tests\"/>
+		</Unit>
+		<Unit filename="/home/mimre/workspace/isosurfaces_temp/isosurfaces/tests/basic_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\basic_tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

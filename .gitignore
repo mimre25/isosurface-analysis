@@ -1,0 +1,65 @@
+##crc stuff##
+configs/*
+jobs/*
+
+#### C++ ####
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#### CMAKE ####
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+#CMakeLists.txt
+
+#### project files ####
+.idea/*
+build/*
+output/*
+*.pro
+*.user
+data/*
+bin/*
+workspace.xml
+results/*
+cmake-build-debug/*
+
+pd
+sys
+plt
+test
+plots
+tmp
+.idea
