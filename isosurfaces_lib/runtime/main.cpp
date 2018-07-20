@@ -51,7 +51,14 @@ int histogramModule(int argc, const char *argv[]);
 int main(int argc, const char *argv[])
 {
 
-  string helpText = "You need to specify a module:\n\tprogram [sign|kf]\n\nUse   program <module> --help   for a description.";
+  string helpText = "You need to specify a module:\n\t./isosurfaces <module> <module-inputs>\n\nUse   program <module> --help   for a description.\n"
+                    "The following modules are available:\n\n"
+                    "multi\t\t - \t computes the VSM & TSM\n"
+                    "single\t\t - \t computes a single ISM\n"
+                    "distance\t -\t computes a single distance equalization\n"
+                    "script\t\t - \t computes a set up ISM or Distances\n"
+                    "stitch\t\t - \t stitches together several json files\n";
+
 
   if (argc < 2)
   {  // Then no module was given
