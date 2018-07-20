@@ -1,4 +1,6 @@
 # isosurface-analysis
+This repository contains the code to compute Isosurface Similarity Maps (ISM), representative Isovalues, Distance Equalization, and time-varying multi-variate 
+similarity maps (TSM & VSM).
 
 # Requirements
 * GCC/G++ Version 6+
