@@ -2,7 +2,7 @@
 This repository contains the code to compute Isosurface Similarity Maps (ISM), representative Isovalues, Distance Equalization, and time-varying multi-variate 
 similarity maps (TSM & VSM).
 
-For references:
+For details please refer to our papers [Efficient GPU-accelerated computation of isosurface similarity maps](https://www.computer.org/csdl/proceedings/pacificvis/2017/5738/00/08031592-abs.html) and [Identifying nearly equally spaced isosurfaces for volumetric data sets](https://www.sciencedirect.com/science/article/pii/S0097849318300220):
 ```bibtex
 @inproceedings{imre2017efficient,
   title={Efficient GPU-accelerated computation of isosurface similarity maps},
@@ -29,7 +29,7 @@ For references:
 * GCC/G++ Version 6+
 * GCC Version 5 for CUDA part
 * CUDA
-* Thorserialize (https://github.com/Loki-Astari/ThorsSerializer)
+* ThorSerializer (https://github.com/Loki-Astari/ThorsSerializer)
 * SDL2
 
 #### Tested with
@@ -43,11 +43,11 @@ The built executable contains several modules. To run, use ./isosurfaces <module
 
 The following modules are available:
 
-multi		 - 	 computes the VSM & TSM
-single		 - 	 computes a single ISM
-distance	 -	 computes a single distance equalization
-script		 - 	 computes a set up ISM or Distances
-stitch		 - 	 stitches together several json files
+*multi		 - 	 computes the VSM & TSM
+*single		 - 	 computes a single ISM
+*distance	 -	 computes a single distance equalization
+*script		 - 	 computes a set up ISM or Distances
+*stitch		 - 	 stitches together several json files
 
 There are further modules in the program, but they are for testing purposes only and left undocumented.
 
