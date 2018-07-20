@@ -43,14 +43,13 @@ The built executable contains several modules. To run, use ./isosurfaces <module
 
 The following modules are available:
 
-*multi		 - 	 computes the VSM & TSM
-*single		 - 	 computes a single ISM
-*distance	 -	 computes a single distance equalization
-*script		 - 	 computes a set up ISM or Distances
-*stitch		 - 	 stitches together several json files
+* multi		 - 	 computes the VSM & TSM
+* single		 - 	 computes a single ISM
+* distance	 -	 computes a single distance equalization
+* script		 - 	 computes a set up ISM or Distances
+* stitch		 - 	 stitches together several json files
 
 There are further modules in the program, but they are for testing purposes only and left undocumented.
-
 
 ## Module Input
 
