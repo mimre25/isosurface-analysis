@@ -1,0 +1,65 @@
+{
+
+	"entries":
+	[
+		{
+			"dimensions": [600, 248, 248],
+			"timesteps": [20,70,120,150,180],
+			"dfDownscale": 1,
+			"fileFormatString": "%s/%s/%s%04d",
+			"inputFolder": "ionization/",
+			"outputFolder": "output/",
+			"jsonFile": "meta.json",
+			"variables": [
+				{
+					"name": "GT",
+					"minValue": 72.160004,
+					"maxValue": 37270,
+					"variableFolder": "GT"
+				},
+				{
+					"name": "H",
+					"minValue": 0.000164,
+					"maxValue": 0.76,
+					"variableFolder": "H"
+				},
+				{
+					"name": "H_2",
+					"minValue": 0,
+					"maxValue": 0.003228,
+					"variableFolder": "H_2"
+				},
+				{
+					"name": "H+",
+					"minValue": 0.000046,
+					"maxValue": 0.7598,
+					"variableFolder": "H+"
+				},
+				{
+					"name": "He",
+					"minValue": 0,
+					"maxValue": 0.24,
+					"variableFolder": "He"
+				},
+				{
+					"name": "He+",
+					"minValue": 0,
+					"maxValue": 0.24,
+					"variableFolder": "He+"
+				},
+				{
+					"name": "He++",
+					"minValue": 0.0,
+					"maxValue": 0.2074,
+					"variableFolder": "He++"
+				},
+				{
+					"name": "PD",
+					"minValue": 2.741,
+					"maxValue": 67070,
+					"variableFolder": "PD"
+				}
+			] 
+		}
+	]
+}

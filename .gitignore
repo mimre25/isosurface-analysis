@@ -1,5 +1,5 @@
 ##crc stuff##
-configs/*
+#configs/*
 jobs/*
 
 #### C++ ####

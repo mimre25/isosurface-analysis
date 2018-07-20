@@ -1,0 +1,7 @@
+{
+  "jsonFile": "meta.json",
+  "timeSteps": [20,70,120,150,180], 
+  "dataRoot": "output/",
+  "dfDownscale" : 8
+}
+

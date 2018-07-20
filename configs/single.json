@@ -1,0 +1,12 @@
+{
+  "fileName": "ionization/GT/GT0150",
+  "dimensions": [600,248,248],
+  "minValue": 72.160004,
+  "maxValue": 37270.000000,
+  "outputFolder": "output/",
+  "variableName" : "GT",
+  "timestep" : 150,
+  "jsonFile" : "meta.json",
+  "dfDownscale" : 8
+}
+
