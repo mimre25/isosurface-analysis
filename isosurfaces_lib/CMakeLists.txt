@@ -9,8 +9,6 @@ MESSAGE("ISOSURFACES_LIB")
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/../cmake)
 
 
-set(CMAKE_C_COMPILER /usr/bin/gcc-6)
-set(CMAKE_CXX_COMPILER /usr/bin/g++-6)
 find_package(SDL2 REQUIRED)
 set(THOR_LIB /usr/local/lib/libThorSerialize17.so)
 set(GCC_FOR_CUDA gcc-5)
