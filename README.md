@@ -31,12 +31,13 @@ For details please refer to our papers [Efficient GPU-accelerated computation of
 * CUDA
 * ThorSerializer (https://github.com/Loki-Astari/ThorsSerializer)
 * SDL2
+* Boost (program_options, regex, system, filesystem)
 
 #### Tested with
 * GCC/G++ 6.2.0
 * GCC 5.2.0
 * Cuda 8.0
-
+* Boost 1.63
 
 # Program Modules
 The built executable contains several modules. To run, use ./isosurfaces <module> <module-input>
