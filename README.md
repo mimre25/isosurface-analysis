@@ -5,7 +5,7 @@ For details please refer to our papers [Efficient GPU-accelerated computation of
 ```bibtex
 @inproceedings{imre2017efficient,
   title={Efficient GPU-accelerated computation of isosurface similarity maps},
-  author={Imre, Martin and Tao, Jun and Wang, Chaoli and others},
+  author={Imre, Martin and Tao, Jun and Wang, Chaoli},
   booktitle={2017 IEEE Pacific Visualization Symposium (PacificVis)},
   pages={180--184},
   year={2017},
@@ -26,7 +26,7 @@ For details please refer to our papers [Efficient GPU-accelerated computation of
 ```bibtex
 @inproceedings{tao2019exploring,
   title={Exploring time-varying multivariate volume data using matrix of isosurface similarity maps},
-  author={Tao, Jun, and Imre, Martin and Wang, Chaoli and Chawla, Nitesh V. and Guo, Hanqi, and Sever, Gökhan and Hyun Kim, Seung},
+  author={Tao, Jun and Imre, Martin and Wang, Chaoli and Chawla, Nitesh V. and Guo, Hanqi and Sever, Gökhan and Kim, Seung Hyun},
   journal={IEEE Transactions on Visualization and Computer Graphics (IEEE SciVis 2018)},
   volume={25(1)},
   pages={},
